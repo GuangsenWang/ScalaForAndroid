@@ -31,8 +31,6 @@ class MainActivity extends AppCompatActivity {
     true
   }
 
-  //test
-
   override def onOptionsItemSelected(item: MenuItem): Boolean = {
     val id: Int = item.getItemId
     if (id == R.id.action_settings) {
