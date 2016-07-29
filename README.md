@@ -4,4 +4,4 @@
 
 基于 https://github.com/saturday06/gradle-android-scala-plugin 
 
-scala版本2.11.7
+scala版本2.11.8
