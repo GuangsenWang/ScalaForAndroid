@@ -1,7 +1,5 @@
 # ScalaForAndroid
 
-使用Scala语言开发Android的一个sample
+Develope Android apps with Scala.
 
-基于 https://github.com/saturday06/gradle-android-scala-plugin 
-
-scala版本2.11.8
+Base on https://github.com/saturday06/gradle-android-scala-plugin 
